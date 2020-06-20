@@ -8,6 +8,10 @@ o Catalago já está no ar. Agora vou começar as melhorias e aplicar novas téc
 
 **Também tenho a ideia de poder clicar na imagem e abrir um modal com a mesma e possível descrição do produto**
 
+
+### **Observação: Este projeto é uma cópia fiel do protótipo (escolha do cliente) e tudo, como disposição e cores foi solicitadas e aprovadas pelo cliente!**
+
+
 Link do catalago [Erdan](http://erdan.com.br/index.html)
 
 [Bruno Silva](https://www.linkedin.com/in/bruno-silva0109/)
